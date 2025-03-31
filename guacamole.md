@@ -5,4 +5,3 @@ Guacamole
 * salt 80p
 
 #MEthods
-Throw avo at cockroach.
